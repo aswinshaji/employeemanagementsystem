@@ -1,0 +1,5 @@
+*.vscode
+*.idea
+/ems-frontend/node_modules
+/ems-backend/.mvn
+/ems-backend/.settings
